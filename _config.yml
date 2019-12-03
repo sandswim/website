@@ -1,0 +1,12 @@
+title: Sandgate Swimming
+email: nick@kurrawong.net
+description: 
+  A simple website for the Sandgate Swimming club
+baseurl: "/"
+url: "http://www.sandswim.com.au"
+github_username:  nicholascar
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
