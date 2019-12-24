@@ -13,7 +13,7 @@ Member Category | Total
 9 years + Recreational Swimmer | $102.49
 8 years and under Recreational Swimmer | $102.81
 Under School Age Sibling (must have full paying sibling member) | $60.00
-Associate Members (Member of another club - attending Sandgate Swimming Club Tuesday Club Night only) | contact committee
+Associate Members<br />(Member of another club - attending Sandgate Swimming Club Tuesday Club Night only) | contact committee
 
 ## 2019/2020 Lesson Fees 
 
