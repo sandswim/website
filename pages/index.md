@@ -3,9 +3,15 @@ layout: page
 title: "Home"
 permalink: /
 ---
-![](images/LTS-Banner.png)
+<img src="images/LTS-Banner.png" style="width:100%;" alt="club new-style logo" />
 
-<div style="background-color: lightgrey;">
+<style>
+    .notice {
+        background-color: white;
+        padding: 20px;
+    }
+</style>
+<div class="notice">
     <h2>CHANGES TO SANDGATE SWIMMING CLUB</h2>
     <p>A lot has changed since last season at our Club. We have handed our Learn To Swim and Squad training over to a private provider - Streamline Aquatics. Please contact them directly to arrange lessons or training:</p>
     <ul>
@@ -17,7 +23,7 @@ permalink: /
     </ul>
 </div>
 <p></p>
-<div style="background-color: lightgrey;">
+<div class="notice">
     <h2>Tuesday Club Night is back</h2>
     <p>Club Nights will resume 8 October 2019.</p>
     <p>To swim at Club Night, all swimmers must be financial members. Please login to Swim Central https://swimcentral.swimming.org.au/ to pay your membership now.</p>
@@ -26,8 +32,8 @@ permalink: /
     <p>AND YES</p>
     <p>We Accept <a href="https://www.qld.gov.au/recreation/sports/funding/getinthegame/getstarted">Get Started Vouchers</a> for Club Night</p>
 </div>
-
-<div style="background-color: lightgrey;">
+<p></p>
+<div class="notice">
     <h2>Quick Info</h2>
     <p>We operate at Sandgate State School Pool</p>
     <p>See Contact Us tab on the right for who to contact about Learn to Swim, Squad or Club Night.</p>
