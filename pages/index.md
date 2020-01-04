@@ -5,44 +5,36 @@ permalink: /
 ---
 ![](images/LTS-Banner.png)
 
-CHANGES TO SANDGATE SWIMMING CLUB
+<div style="background-color: lightgrey;">
+    <h2>CHANGES TO SANDGATE SWIMMING CLUB</h2>
+    <p>A lot has changed since last season at our Club. We have handed our Learn To Swim and Squad training over to a private provider - Streamline Aquatics. Please contact them directly to arrange lessons or training:</p>
+    <ul>
+        <li>Facebook page – <a href="https://www.facebook.com/Streamline-Aquatics-Training-Pty-Ltd-876999649049305/">Streamline Aquatics & Training Pty Ltd</a></li>
+        <li>Email – <a href="mailto:streamlineaquatics@hotmail.com">streamlineaquatics@hotmail.com</a></li>
+        <li>Phone – 0412 327 144 (Rae)</li>
+        <li>0411 862 441 (Karen)</li>
+        <li>Post – PO Box 5674, Brendale DC 4500</li>
+    </ul>
+</div>
+<p></p>
+<div style="background-color: lightgrey;">
+    <h2>Tuesday Club Night is back</h2>
+    <p>Club Nights will resume 8 October 2019.</p>
+    <p>To swim at Club Night, all swimmers must be financial members. Please login to Swim Central https://swimcentral.swimming.org.au/ to pay your membership now.</p>
+    <p>Can’t remember your login? Phone Swimming Queensland directly on 3245 3907 to get help.</p>
+    <p>New to Club Night? - your child can trial 3 weeks for free before needing to sign up.</p>
+    <p>AND YES</p>
+    <p>We Accept <a href="https://www.qld.gov.au/recreation/sports/funding/getinthegame/getstarted">Get Started Vouchers</a> for Club Night</p>
+</div>
 
-A lot has changed since last season at our Club. We have handed our Learn To Swim and Squad training over to a private provider - Streamline Aquatics. Please contact them directly to arrange lessons or training:
-
-Facebook page – Streamline Aquatics & Training Pty Ltd
-
-Email – streamlineaquatics@hotmail.com
-
-Phone- 0412 327 144 (Rae)
-
-0411 862 441 (Karen)
-
-Post – PO Box 5674, Brendale DC 4500
-
-Tuesday Club Night is back.
-
-Club Nights will resume 8 October 2019.
-
-To swim at Club Night, all swimmers must be financial members. Please login to Swim Central https://swimcentral.swimming.org.au/ to pay your membership now.
-
-Can’t remember your login? Phone Swimming Queensland directly on 3245 3907 to get help.
-
-New to Club Night? - your child can trial 3 weeks for free before needing to sign up.
-
-AND YES
-
-We Accept Get Started Vouchers for Club Night
-
-![](images/find_us_on_facebook.png)
-
-Operating at Sandgate State School Pool
-
-See Contact Us tab on the right for who to contact about Learn to Swim, Squad or Club Night.
-
-Next Swimming Meets
-
-Click here for all available details of this season’s meets.
-
+<div style="background-color: lightgrey;">
+    <h2>Quick Info</h2>
+    <p>We operate at Sandgate State School Pool</p>
+    <p>See Contact Us tab on the right for who to contact about Learn to Swim, Squad or Club Night.</p>
+    <p>Next Swimming Meets</p>
+    <p>Click here for all available details of this season’s meets.</p>
+    <a href="https://www.facebook.com/sandswim"><img src="images/find_us_on_facebook.png" alt="Find us on Facebook" /></a>
+</div>
 ## Welcome
 
 The Committee of Sandgate Swimming welcome all returning swimmers, their parents and supporters to another enjoyable and successful season.  A special welcome to all our new members – we feel sure it will not be long before you feel a part of our friendly club.
