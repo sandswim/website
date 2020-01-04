@@ -48,11 +48,11 @@ Our club is committed to ensuring that executive positions are manageable amidst
 
 Please click the links below to read more about the duties of our committee.
 
-* [President](/files/Role-President.pdf)
-* [Vice President](/files/Role-Vice-President.pdf)
-* [Secretary](/files/Role-Secretary.pdf)
-* [Treasurer](/files/Role-Treasurer.pdf)
-* [Race Secretary](/files/Role-Race-Secretary.pdf)
+* [President](files/Role-President.pdf)
+* [Vice President](files/Role-Vice-President.pdf)
+* [Secretary](files/Role-Secretary.pdf)
+* [Treasurer](files/Role-Treasurer.pdf)
+* [Race Secretary](files/Role-Race-Secretary.pdf)
 
 ### Past Committees
 #### 2018/19 Committee Members
