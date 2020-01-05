@@ -4,7 +4,9 @@ title: "Club Championships"
 permalink: /championships
 ---
 # Club Championships
-Club Championships will be run on 3 consecutive Tuesday nights  
+**Check v. Members Handbook p 15 & 16**
+
+Club Championships 2019/2020 will be run on 3 consecutive Tuesday nights: 
 
 * Tuesday 12th of March at 6:30pm
 * Tuesday 19th of March at 6.30pm
@@ -26,8 +28,6 @@ To be eligible to swim at Championships, you must
 * [Check your child's age here](files/2018-19%20season%20top%20times%2026%20feb%202019.pdf)
 * [Club Championship Program](files/SANDGATE%20SWIMMING%20CLUB%202019%20CHAMPIONSHIPS%20PROGRAM.pdf)
 * [Entry List](files/club%20championships%20entry%20list%202019.pdf)
-
- 
 
 ### Club Championship Event Qualifying 
 When you nominate, you will automatically be placed in the strokes (Free/Back/Breast/Fly) and distances (12.5m/25m/50m) as well as 100m IM or 200m IM you swim at club night. Swimmers will compete in categories according to their age as at 12 March 2019 (the first night of club championships). 

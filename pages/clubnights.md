@@ -37,7 +37,7 @@ The qualifying times are in seconds are:
 
 Once a swimmer qualifies in a stroke they automatically qualify for the next longer distance in that stroke.(e.g. 12.5m Free - 25m Free).
 
-Qualifying Times for Open Events
+#### Qualifying Times for Open Events
 
 **Individual Medley (IM) 4 x 25m**: Need to be qualified for 25m in Backstroke, Butterfly and Breaststroke and 50m in Freestyle.
 
@@ -54,6 +54,8 @@ Qualifying Times for Open Events
 Note that the swimmer, as well as satisfying these criteria, should be be comfortable swimming these distances. Open events are not recommended for swimmers still in Learn to Swim.
 
 #### Awards and Trophies
+The Club encourages the swimmer to improve his/her time to maximise the points gained in each event. Accordingly, the greater the improvement, the greater the points scored. In this way swimmers are encouraged to develop their own swimming ability and do not have to win *races* on Club Night to gain points and receive awards on presentation night. The system eancourages and rewards consistent improvement and regular participation. Children swim with others of comparable ability based on their best time for that particular stroke regardless of age or sex of the child.
+
 Aggregate points trophies are awarded at the end of the season to the top point scorers. Points are awarded for all events (except all 12.5m events and relays) as follows:
 
 **Achievement** | **Points**

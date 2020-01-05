@@ -5,13 +5,46 @@ permalink: /about
 ---
 # About
 
-## Club Motto
+### Club Motto
 > Our aim is to encourage all members from Learn-to-Swim to seniour squad to achieve their maximum potential and personal goals whilst maintaining a social and friendly club environment.
 
-## Management of Swimming Club
+## Management
 The sandgate Swimming Club is governed by a management committee working under the club's constitution.
 
 * [The Club's Constitution]()
+
+### Policies and Rules
+
+#### Policies
+As the Club is affiliated with Swimmign Queensland, and through them Swimmign Australia, all SQ & SA policies apply.
+
+* SCSC - Communication Policy
+* SA - Child Welfare Policy & Procedure
+* SA - Member Welfare Policy & Procedure
+* SA - Privacy Policy
+* SA - Codes of Conduct
+
+All other policies can be found on the [Swimming Queensland](https://qld.swimming.org.au/policies-procedures) or [Swimming Australia websites](https://www.swimming.org.au/integrity-policies-rules/rules).
+
+
+#### Rules
+1. All directions given by Management Committee or Club Night officials must be followed at all times
+2. All swimmers must wear a bathing cap at all times whilst in the swimming pool
+3. There will be NO DIVING allowed into the shallow end of the pool
+4. Swimmers must not enter the water without an official's permission
+5. Swimmers must not stand under showers for prolonged periods of time
+6. The dicipline of non-swimming children around the pool during a swimming meet is the responsibility of the Parent/Guardina. Parents are also responsible for the dicipline of their children before and after the meet as it is not the responsibility of officials whose attention is directed to the swimmers in the pool
+7. Running, jumping and pushing within the Pool Grounds and change rooms is prohibited
+8. All waste foodstuffs, wrappers, drink containers and other rubbish is to be placed in the bins provided
+9. Glass containers are banned from the pool complex
+10. The storeroom and plant rooms are strictly out of bounds for all children
+11. The pool phone is only for emergency use (dial 000)
+12. Any person suffering from contagious illness (i.e. diarrhoea, chicken pox) or who have open wounds are not permitted to swim
+13. Eductation Queensland prohibits smoking on school premises at any time
+14. The consumption of alcohol is not permitted on school premises at any time. Any voliation of this will result in the offender being removed permanently from the club
+
+### Code of Conduct
+**TO DO - Members handbook p 14 &  15**
 
 ## Committee
 All Management Committee Members (Chairperson, Vice Chairperson, Secretary, Recorder and Treasurer) of the Club are elected at the *Election of Office Bearers Annual General Meeting* in November each year following the start of the season.
@@ -76,6 +109,8 @@ The Club will be working in conjunction with [Streamline Aquatics](https://www.9
 
 #### Please note: there is on obligation for club members to train with Streamline Aquatics
 
+<br />
+
 ## Parent Responsibilities
 As your child's safety is of paramount importance , parents of tchildren incolved in any activity conducted by the Club ***must*** either be present throughout the entire activity or arrange for another adult to accept that responsibility. An adult must supervise swimmers under the age of 18 years. Shold clarification be required regarding this requirement, please contact a member of the Club's Committee. The Club is a small club that requires the help of every family. Ther eare many jobs to be done  and without the help of parents, club nihgts and chanmpionshps would be impossible to run. Timekeeping, the canteen etc., are just a couple of the jobs that require several parent helpers each club night.
 
@@ -83,6 +118,34 @@ As your child's safety is of paramount importance , parents of tchildren incolve
 This year, as a condition of membership, we are asking all families to assist in the running of the Club through various volunteering activities. We will be setting up and distributing a roster and will be asking all families to assist to spread the load so that everyone can enjoy the club and cheer on our swimmers.
 
 Of course, if unforseen circumstances do not permit your family to help on a particular night, we ask you to provide sufficient notice so that replacement volunteers can be found, and we will assist in the rescheduling of volunteer efforts. The Committee bnelieves that by sharing the load, we will be able to run the club smoothly and efficiently.
+
+### Canteen
+The Canteen will be operating at our Club Nights and meets offering food and refreashments. The will only occur with the assistance of our parents.
+
+### Fundraising
+Fundraising for the Club occurs from our canteen sales both at Club Nights and meets. Funds are also raised from regular raffles and other events throughout the season. The proceeds from these events help us keep the Club running and provide much needed equipment for out pool. As a non-profit Club, we need to raise funds for the day-to-day running of the Club.
+
+<hr />
+
+## Officials
+### What officials do
+**Referee**: has overall authority of the competition and ensures all the rules are followed. They instruct all officials and have any violations of the rules reported to them for action.
+
+**Starter**: takes control of the swimmers from the Referee to start the race by saying "on your mark", waiting until there is no movement from any swimmer on the blocks, then giving the start signal. The start shall be in accordance with QSA Swimming rules. Absolute silence and stillness is required after the Starter or Referee sounds a whistle until after the start signal is given.
+
+**Timekeepers**: use either watches or automatic timers, depending on the facilties at the venue, to record the official time for simmers in their lane. This is an essential job carried out by parents on clug night and/or carnivals. We are all volunteers and you know the old saying, *many hands make light work*. One timekeeper is needed for each lane on a normal club night. The night can't start until we have our timekeepers waiting behind each starting block. Please voluneer, don't wait to be asked.
+
+**Special Note**: *Timekeeping at Carnivals*. The more swimmers a club sends to an away carnival, the businer it is, and the greater the timekeeping obligations. Parents of swimmers attending away carnivals must be aware of this obligation and assist accordingly. The number of swimmers that we send away determines the number of lanes allocated to us as a team (normally 1 lane to every 5 swimmers). Please be aware that the more children you have nominated from your family, the businer you will be! Other team members will be happy to assist you where possible, but it is the requirement of the parents of children to to ensure you are available for timekeeping. Away swimmers must be accompanied by an adult available for share roster duties.
+
+### Suspension of Members/Disqualification
+Instructions by Officials **must be obeyed at all times**. Wilful or persistent disobedinece or any misconduct during events at Club Nights will result in the Referee suspending the offending member for the rest of the night. The Referee will refer any suspension of any club member to the Management Committee for further action.
+
+If any time trials result in disqualification, the swimmer must qualify again for that distance. In the event of being disqualified during a Club Night, do now be downhearted: the Referee will explain why the disqualification occured. If you do not understand, please ask or discuss the matter with the Coach. That what Swimming Club's all about - learning to increase your speed while still performing the stroke correctly! If a swimmer is disqualified (D), no points are awarded. 12.5m and Beginner Swimmers get (B) instead of a time if the do something wrong and not a disqualification.
+
+### Stroke rules
+The Club has adopted the QSA rules for each individual stroke. If you wish to have a rule clarified or to discuss the disqualification of your child, the Coach or Refereee will be only to pleased to assist. The one start rule applies for all Club Nights as per the QSA rules. Junior rule tolerances applies to swimmers 7 years and under and to events of 25m or less.
+
+<hr />
 
 ## Club Captains
 **Club Captains**:
@@ -104,6 +167,7 @@ The key responsibilities are to support and promote the club by:
 * Representing the club at carnivals, including BSA meets
 * Assiting new & junior swimmer at carnivals with marshalling procedures & warm-ups (when Coach not attending)
 
+<hr />
 
 ## Club History
 Sandgate Swimming Club Inc. was founded in 1924. Starting life as the *Sandgate Amateure Swimming Club*, members competed in the Shorncliffe pier baths. In those early days, swimmers had to compete with rough weather and jellyfish! The club stayed there until around 1927 when they moved to the new pool built on Flinders Parade. In about 1969, that pool was demolished to make way for a redevelopment. Until that was finished the club made a temporary home at Banyo High School, moving back to the new Sandgate Olympic Pool for the 1973-74 season. The club was incorporated on the 15th December 1998. At the end of the 1993-94 season, a change in the lessee of the Olympic Pool and a growing commercialisation of the ppol into a recreational aquatic centre, saw the club reviewing its options. This meant from the 1995-96 season, a new home was found for the club at the Sandgate State School War Memorial Swimming Pool. Apart from a few competition meets held at the Sandgate High School pool, we've been here ever since. 
