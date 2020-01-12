@@ -75,6 +75,7 @@ If you do not, your results may not be included in our results and records datab
 * [Brisbane Swimming club meets](https://brisbane.swimming.org.au/events.aspx?)
 * [Swimming Queensland events](https://qld.swimming.org.au/events?keyword=&category=183&region=All&field_event_date_time_end_value=&field_event_date_time_value=)
 
+<a id="calendar"></a>
 ### 2019/2020 Season - our club's current swim meet calendar
 
 Be cautious with nomination closing dates. If numbers at a meet are capped, meet organisers may close nominations earlier than the date stated.

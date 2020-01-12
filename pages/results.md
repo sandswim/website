@@ -4,7 +4,7 @@ title: "Results, Reports & Records"
 permalink: /results
 ---
 # Results, Reports & Records
-## Reports
+## Results
 ### Club Night Results
 
 **Date** | **Results**
@@ -26,7 +26,7 @@ permalink: /results
 26 Feb 19 | - 	 
 06 Mar 19 | -
 
-### Season Reports
+## Reports
 * [2018-19 Season Report](files/reports/2018-19-Season-Report.pdf)
 * [2017-2018 Season Report](files/reports/2017-2018-Season-Report.pdf)
 * [2016-2017 Season Report](files/reports/2016-2017-Season-Report.pdf)

@@ -5,13 +5,19 @@ permalink: /about
 ---
 # About
 
-### Club Motto
-> Our aim is to encourage all members from Learn-to-Swim to seniour squad to achieve their maximum potential and personal goals whilst maintaining a social and friendly club environment.
+## Club Motto
+> "Our aim is to encourage all members from Learn-to-Swim to seniour squad to achieve their maximum potential and personal goals whilst maintaining a social and friendly club environment."
+
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Management
 The sandgate Swimming Club is governed by a management committee working under the club's constitution.
 
-* [The Club's Constitution]()
+* [The Club's Constitution](files/SSC-Constitution.pdf)
+
+Also:
+
+* [Sandgate Swimming Club Terms and Conditions](files/SSC-T&Cs-1819.pdf)
 
 ### Policies and Rules
 
@@ -25,7 +31,6 @@ As the Club is affiliated with Swimmign Queensland, and through them Swimmign Au
 * SA - Codes of Conduct
 
 All other policies can be found on the [Swimming Queensland](https://qld.swimming.org.au/policies-procedures) or [Swimming Australia websites](https://www.swimming.org.au/integrity-policies-rules/rules).
-
 
 #### Rules
 1. All directions given by Management Committee or Club Night officials must be followed at all times
@@ -46,6 +51,8 @@ All other policies can be found on the [Swimming Queensland](https://qld.swimmin
 ### Code of Conduct
 **TO DO - Members handbook p 14 &  15**
 
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
+
 ## Committee
 All Management Committee Members (Chairperson, Vice Chairperson, Secretary, Recorder and Treasurer) of the Club are elected at the *Election of Office Bearers Annual General Meeting* in November each year following the start of the season.
 
@@ -53,6 +60,8 @@ Members' meetings are held throughout the swimming season on a day and time adve
 
 #### Raising Issues
 Members who have any issues in regard to the operations of the Club are to put them in writing addressed to the Chairperson of the club and forward them either by post or hand them in on Tuesday Night Club for action. All complaints will be dealt with within 7 days of receipt of a letter.
+
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## 2019/20 Committee Members
 Following the AGM held on 5th November 2019, the committee for 2019/2020 is:
@@ -103,13 +112,14 @@ Member | Doug Kolishkin
 Member | Jim Murdoch
 Member | Romolo Roles
 
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Club Coach and Training Partner
 The Club will be working in conjunction with [Streamline Aquatics](https://www.96five.com/business-directory/streamline-aquatics-training-pty-ltd/) who are our learn-to-swim and training provider.
 
 #### Please note: there is on obligation for club members to train with Streamline Aquatics
 
-<br />
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Parent Responsibilities
 As your child's safety is of paramount importance , parents of tchildren incolved in any activity conducted by the Club ***must*** either be present throughout the entire activity or arrange for another adult to accept that responsibility. An adult must supervise swimmers under the age of 18 years. Shold clarification be required regarding this requirement, please contact a member of the Club's Committee. The Club is a small club that requires the help of every family. Ther eare many jobs to be done  and without the help of parents, club nihgts and chanmpionshps would be impossible to run. Timekeeping, the canteen etc., are just a couple of the jobs that require several parent helpers each club night.
@@ -125,7 +135,7 @@ The Canteen will be operating at our Club Nights and meets offering food and ref
 ### Fundraising
 Fundraising for the Club occurs from our canteen sales both at Club Nights and meets. Funds are also raised from regular raffles and other events throughout the season. The proceeds from these events help us keep the Club running and provide much needed equipment for out pool. As a non-profit Club, we need to raise funds for the day-to-day running of the Club.
 
-<hr />
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Officials
 ### What officials do
@@ -145,7 +155,7 @@ If any time trials result in disqualification, the swimmer must qualify again fo
 ### Stroke rules
 The Club has adopted the QSA rules for each individual stroke. If you wish to have a rule clarified or to discuss the disqualification of your child, the Coach or Refereee will be only to pleased to assist. The one start rule applies for all Club Nights as per the QSA rules. Junior rule tolerances applies to swimmers 7 years and under and to events of 25m or less.
 
-<hr />
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Club Captains
 **Club Captains**:
@@ -167,7 +177,7 @@ The key responsibilities are to support and promote the club by:
 * Representing the club at carnivals, including BSA meets
 * Assiting new & junior swimmer at carnivals with marshalling procedures & warm-ups (when Coach not attending)
 
-<hr />
+<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Club History
 Sandgate Swimming Club Inc. was founded in 1924. Starting life as the *Sandgate Amateure Swimming Club*, members competed in the Shorncliffe pier baths. In those early days, swimmers had to compete with rough weather and jellyfish! The club stayed there until around 1927 when they moved to the new pool built on Flinders Parade. In about 1969, that pool was demolished to make way for a redevelopment. Until that was finished the club made a temporary home at Banyo High School, moving back to the new Sandgate Olympic Pool for the 1973-74 season. The club was incorporated on the 15th December 1998. At the end of the 1993-94 season, a change in the lessee of the Olympic Pool and a growing commercialisation of the ppol into a recreational aquatic centre, saw the club reviewing its options. This meant from the 1995-96 season, a new home was found for the club at the Sandgate State School War Memorial Swimming Pool. Apart from a few competition meets held at the Sandgate High School pool, we've been here ever since. 
