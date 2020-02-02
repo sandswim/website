@@ -19,7 +19,7 @@ permalink: /results
 26 Nov 19 | [Results](files/results/ClubNight-2019-11-26.pdf)
 03 Dec 19 | [Results](files/results/ClubNight-2019-12-03.pdf)
 10 Dec 19 | No racing this week 	 
-28 Jan 20 | - 	 
+28 Jan 20 | [Results](files/results/ClubNight-2020-01-28.pdf)	 
 04 Feb 20 | - 	 
 12 Feb 19 | -
 19 Feb 19 | - 	 
