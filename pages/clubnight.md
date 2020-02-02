@@ -4,6 +4,7 @@ title: "Club Night"
 permalink: /clubnight
 ---
 # Club Nights
+For the results from each Club Night's swimming rances, see the [Results Page](/results).
 
 ## Information
 Club Night is held every Tuesday night from October to March (excluding School holidays).  Families that have been with us for a while will know what a great night this is with a BBQ dinner and swims for everyone. Swimming Club is social, inclusive and a great way for children to apply the techniques learned in lessons and training in a supportive environment.
