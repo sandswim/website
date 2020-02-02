@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Club Nights"
-permalink: /clubnights
+title: "Club Night"
+permalink: /clubnight
 ---
 # Club Nights
 
