@@ -22,7 +22,7 @@ permalink: /results
 28 Jan 20 | [Results](files/results/ClubNight-2020-01-28.pdf)	 
 04 Feb 20 | [Results](files/results/ClubNight-2020-02-04.pdf)	
 11 Feb 20 | [Results](files/results/ClubNight-2020-02-11.pdf)	
-18 Feb 20 | - 	 
+18 Feb 20 | [Results](files/results/ClubNight-2020-02-18.pdf)	 
 25 Feb 20 | -	 
 03 Mar 20 | -
 
