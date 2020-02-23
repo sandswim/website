@@ -29,16 +29,25 @@ RULES AND ELIGIBILITY CONDITIONS:
 ### Club Championship Event Qualifying 
 When you nominate, you will automatically be placed in the strokes (Free/Back/Breast/Fly) and distances (25m/50m) allocated to age on the day of championships. 
 
-Age	Free	Breast	Back	Fly	IM
-6 & under	25m	25m	25m	25m	
-7 years	25m	25m	25m	25m	
-8 years	25m	25m	25m	25m	
-9 years	25m	25m	25m	25m	
-10 years	50m	50m	50m	50m	
-11 years	50m	50m	50m	50m	
-12 years	50m	50m	50m	50m	
-13 years	50m	50m	50m	50m	
-Open	100m	100m	100m	100m	100m
+Age	      Free	Breast	Back	 Fly	   IM
+
+6 & under	25m	   25m	  25m	   25m	
+
+7 years	  25m	   25m	  25m	   25m	
+
+8 years	  25m	   25m	  25m	   25m	
+
+9 years	  25m	   25m	  25m	   25m	
+
+10 years	50m	   50m	  50m	   50m	
+
+11 years	50m	   50m	  50m	   50m	
+
+12 years	50m	   50m	  50m	   50m	
+
+13 years	50m	   50m	  50m	   50m	
+
+Open	    100m	 100m	  100m	 100m	  100m
 
 
 Open Events are nominated for separately.  Usual Qualifying Times for Open Events, as stated on the Club Night page, apply.
@@ -54,7 +63,9 @@ First, second and third places will be awarded for each competitive age group, s
 
 Points are awarded as follows:
 5 points for 1st
+
 3 points for 2nd
+
 1 point for 3rd
 
 Age Champion medals and certificates for swimmers who break club and championship records will be awarded on Trophy Night. Age Champions are awarded to the boy and girl swimmer gaining the most points across all events in their age group. The age group events are 25m or 50m in each of the four strokes (free, back, breast and fly) and either the 100m or 200m medley. 
