@@ -6,17 +6,14 @@ permalink: /championships
 # Club Championships
 **Check v. Members Handbook p 15 & 16**
 
-Club Championships 2019/2020 will be run on 3 consecutive Tuesday nights: 
+Club Championships 2019/2020 will be held on Sunday 29th March 2020 - start time TBA 
 
-* Tuesday 12th of March at 6:30pm
-* Tuesday 19th of March at 6.30pm
-* Tuesday 26th of March at 6.30pm
-
-To be eligible to swim at Championships, you must
-
-1. have attended 60% of Club Nights this season (at least 9 Club Nights) or if you joined after 9th October 2018, then 60% of Club Nights since you joined.  
-2. nominate for the events your child wishes to swim across the entire 3 night program (Free/Breast/Back/Fly/IM).  No nominations will be accepted after Friday 8th March.
-3. have swum an event at least once on a club night. If your child recently qualified for an event, but has not swum that distance at a regular Club Night, then they are not eligible to swim it at Championships this season
+RULES AND ELIGIBILITY CONDITIONS:
+1.	Only financial members shall be eligible to swim in Club Championships
+2.	Members registered with any other Club for the current season must compete solely for Sandgate & District Swimming Club at any Swimming Queensland/Brisbane Swimming Association or interclub meets the Club attends to be eligible for Club Championships
+3.	Competitors may only compete in their own age group
+4.	Open events will swum as multi-age events and places awarded regardless of age
+5.	Competitors must have obtained a qualifying time at least once in each stroke to be eligible to compete in Open Club Championship events.
 
 ### What you need to do next:
 
@@ -30,7 +27,19 @@ To be eligible to swim at Championships, you must
 * [Entry List](files/club%20championships%20entry%20list%202019.pdf)
 
 ### Club Championship Event Qualifying 
-When you nominate, you will automatically be placed in the strokes (Free/Back/Breast/Fly) and distances (12.5m/25m/50m) as well as 100m IM or 200m IM you swim at club night. Swimmers will compete in categories according to their age as at 12 March 2019 (the first night of club championships). 
+When you nominate, you will automatically be placed in the strokes (Free/Back/Breast/Fly) and distances (25m/50m) allocated to age on the day of championships. 
+
+Age	Free	Breast	Back	Fly	IM
+6 & under	25m	25m	25m	25m	
+7 years	25m	25m	25m	25m	
+8 years	25m	25m	25m	25m	
+9 years	25m	25m	25m	25m	
+10 years	50m	50m	50m	50m	
+11 years	50m	50m	50m	50m	
+12 years	50m	50m	50m	50m	
+13 years	50m	50m	50m	50m	
+Open	100m	100m	100m	100m	100m
+
 
 Open Events are nominated for separately.  Usual Qualifying Times for Open Events, as stated on the Club Night page, apply.
   
@@ -41,7 +50,12 @@ For 12.5m events, there will be rule tolerance - this means it is not necessary 
 More information about rules can be found [here](files/Basic%20guide%20and%20rules.pdf) and [here](files/rules%20for%20club%20championships.pdf).
 
 ### Awards and Records
-First, second and third place ribbons will be awarded for each competitive age group, stroke and distance category. In each age-competitive event, competitors can accrue points towards age champion according to their place. Swimmers in Open and 12.5m events can accrue points toward Open Champion and Age Champion. Please [click here](files/Age%20Group%20Points.pdf) to see the how points will be allocated.
+First, second and third places will be awarded for each competitive age group, stroke and distance category. In each age-competitive event, competitors can accrue points towards age champion according to their place. Swimmers in Open and 12.5m events can accrue points toward Open Champion and Age Champion. 
+
+Points are awarded as follows:
+5 points for 1st
+3 points for 2nd
+1 point for 3rd
 
 Age Champion medals and certificates for swimmers who break club and championship records will be awarded on Trophy Night. Age Champions are awarded to the boy and girl swimmer gaining the most points across all events in their age group. The age group events are 25m or 50m in each of the four strokes (free, back, breast and fly) and either the 100m or 200m medley. 
 
