@@ -56,7 +56,7 @@ Points are awarded as follows:
 
 * **5** points for 1st
 * **3** points for 2nd
-* *1* point for 3rd
+* **1** point for 3rd
 
 Age Champion medals and certificates for swimmers who break club and championship records will be awarded on Trophy Night. Age Champions are awarded to the boy and girl swimmer gaining the most points across all events in their age group. The age group events are 25m or 50m in each of the four strokes (free, back, breast and fly) and either the 100m or 200m medley. 
 
