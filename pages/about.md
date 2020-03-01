@@ -70,13 +70,10 @@ Role | Person
 --- | ---
 President | Pippa van Wijk
 Vice-President | ?
-Secretary | ?
-Treasurer | ?
-Club Night Co-ordinator | ?
-Member | ?
-Member | ?
-Member | ?
-Member | Nicholas Car
+Secretary | Judith Wilson
+Treasurer | Kylie Raffin 
+Club Night Co-ordinator | Ria Meek
+Member | Jon Tongia,<br />Kelly Smith<br />Leif Mawson<br />Nicholas Car<br />Mary Mawson<br />Michelle Fraser<br />Simon Punter
 
 Remember that all of the committee members are volunteers.
 
