@@ -53,11 +53,10 @@ More information about rules can be found [here](files/Basic%20guide%20and%20rul
 First, second and third places will be awarded for each competitive age group, stroke and distance category. In each age-competitive event, competitors can accrue points towards age champion according to their place. Swimmers in Open and 12.5m events can accrue points toward Open Champion and Age Champion. 
 
 Points are awarded as follows:
-5 points for 1st
 
-3 points for 2nd
-
-1 point for 3rd
+* **5** points for 1st
+* **3** points for 2nd
+* *1* point for 3rd
 
 Age Champion medals and certificates for swimmers who break club and championship records will be awarded on Trophy Night. Age Champions are awarded to the boy and girl swimmer gaining the most points across all events in their age group. The age group events are 25m or 50m in each of the four strokes (free, back, breast and fly) and either the 100m or 200m medley. 
 
