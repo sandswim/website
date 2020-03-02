@@ -31,17 +31,17 @@ When you nominate, you will automatically be placed in the strokes (Free/Back/Br
 
 Age | Free | Breast | Back | Fly | IM
 --- | --- | --- | --- | --- | ---
-6 & under | 25m | 25m | 25m | 25m | 
-7 years | 25m | 25m | 25m | 25m | 
-8 years | 25m | 25m | 25m | 25m | 
-9 years | 25m | 25m | 25m | 25m | 
-10 years | 50m | 50m | 50m | 50m | 
-11 years | 50m | 50m | 50m | 50m | 
-12 years | 50m | 50m | 50m | 50m | 
-13 years | 50m | 50m | 50m | 50m | 
-Open | 100m | 100m | 100m | 100m | 100m
+6 & under | 25m | 25m | 25m | 25m | 100m |
+7 years | 25m | 25m | 25m | 25m | 100m |
+8 years | 25m | 25m | 25m | 25m | 100m |
+9 years | 25m | 25m | 25m | 25m | 100m |
+10 years | 50m | 50m | 50m | 50m | 100m |
+11 years | 50m | 50m | 50m | 50m | 100m |
+12 years | 50m | 50m | 50m | 50m | 100m |
+13 years | 50m | 50m | 50m | 50m | 100m |
+Open | 100m | 100m | 100m | 100m | 
 
-Open Events are nominated for separately.  Usual Qualifying Times for Open Events, as stated on the Club Night page, apply.
+Open Events are nominated for separately.  Usual Qualifying Times for IM and Open Events, as stated on the Club Night page, apply.
   
 ### Club Championship rules
 For 25m + events, no rule tolerances apply. A one start rule applies. All events are swum as heats only, with places based on the judge's adjudication and the judge's decision is final.
