@@ -26,9 +26,9 @@ permalink: /results
 25 Feb 20 | [Results](files/results/ClubNight-2020-02-25.pdf)	 
 03 Mar 20 | [Results](files/results/ClubNight-2020-03-03.pdf)
 10 Mar 20 | [Results](files/results/ClubNight-2020-03-10.pdf)
-17 Mar 20 | -
-24 Mar 20 | -
-31 Mar 20 | Trophy Night
+17 Mar 20 | Cancelled
+24 Mar 20 | Cancelled
+31 Mar 20 | Trophy Night - Cancelled
 
 ## Reports
 * [2018-19 Season Report](files/reports/2018-19-Season-Report.pdf)
