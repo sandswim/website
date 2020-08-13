@@ -10,66 +10,65 @@ permalink: /
         background-color: white;
         padding: 20px;
     }
+    div.notices > div {
+        margin-top: 20px;
+        /*border: solid 2px red;*/
+    }
 </style>
-<div class="notice" style="text-align:center;">
-    <h2>Quick Info</h2>
-    <div style="display:grid; grid-template-columns: 120px 400px 1fr; text-align:left;">
-        <div style="font-size:smaller; text-align:center;">
-            <a href="https://goo.gl/maps/8g48JJ4xs3Wi1akH8">
-                <img src="images/gmaps-icon.png" alt="Google Maps Icon" style="width:100px;" /><br />
+<div class="notices">
+    <div class="notice">
+        <h2>2020/21 Season starts in October!</h2>
+        <p>The first Club Night for the season will be Tuesday, October 6th.</p>
+        <p>To join the club, please just attend on the October 6th at 6:30 at Sandgate State School pool or <a href="/contact">contact the Club</a>.</p>
+    </div>
+    <div class="notice" style="text-align:center;">
+        <h2>Quick Info</h2>
+        <div style="display:grid; grid-template-columns: 120px 400px 1fr; text-align:left;">
+            <div style="font-size:smaller; text-align:center;">
+                <a href="https://goo.gl/maps/8g48JJ4xs3Wi1akH8">
+                    <img src="images/gmaps-icon.png" alt="Google Maps Icon" style="width:100px;" /><br />
+                </a>
+            </div>
+            <div style="align-self: center;">
+                <p>We operate at:<br /><a href="https://goo.gl/maps/8g48JJ4xs3Wi1akH8">Sandgate State School Pool</a></p>
+            </div>
+            <div>
+                <a href="https://www.facebook.com/sandswim"><img src="images/find_us_on_facebook_trans_250.png" alt="Find Us On Facebook" /></a>
+            </div>
+        </div>
+        <div style="display:grid; grid-template-columns: 120px 400px 120px 1fr; text-align:left;">
+            <div style="text-align:center;">
+                <a href="/contact"><img src="images/contact-us.png" style="width:90px;" alt="Contact Us" /></a>
+            </div>
+            <div>
+                <p><a href="/contact">Contact Us</a></p>
+            </div>
+            <div>
+                <a href="/clubnights"><img src="images/clubnights.jpg" style="width:90px;" alt="Club Nights" /></a>            
+            </div>  
+            <div>
+                <p><a href="/clubnights">Club Nights</a></p>
+            </div>              
+        </div>
+        <div style="text-align:center;">
+            <a href="/meets#calendar">
+                <h3>Swimming Meet Calendar</h3>
+                <img src="images/calendar-blue.png" style="width:90px;" alt="Meeting Calendar" />
             </a>
         </div>
-        <div style="align-self: center;">
-            <p>We operate at:<br /><a href="https://goo.gl/maps/8g48JJ4xs3Wi1akH8">Sandgate State School Pool</a></p>
-        </div>
-        <div>
-            <a href="https://www.facebook.com/sandswim"><img src="images/find_us_on_facebook_trans_250.png" alt="Find Us On Facebook" /></a>
-        </div>
     </div>
-    <div style="display:grid; grid-template-columns: 120px 400px 120px 1fr; text-align:left;">
-        <div style="text-align:center;">
-            <a href="/contact"><img src="images/contact-us.png" style="width:90px;" alt="Contact Us" /></a>
-        </div>
-        <div>
-            <p><a href="/contact">Contact Us</a></p>
-        </div>
-        <div>
-            <a href="/clubnights"><img src="images/clubnights.jpg" style="width:90px;" alt="Club Nights" /></a>            
-        </div>  
-        <div>
-            <p><a href="/clubnights">Club Nights</a></p>
-        </div>              
-    </div>
-    <div style="text-align:center;">
-        <a href="/meets#calendar">
-            <h3>Swimming Meet Calendar</h3>
-            <img src="images/calendar-blue.png" style="width:90px;" alt="Meeting Calendar" />
-        </a>
+    <div class="notice">
+        <h2>2019/20 CHANGES TO SANDGATE SWIMMING CLUB</h2>
+        <p>The Club handed Learn To Swim and Squad training over to a private provider - Streamline Aquatics in 2019/20. Please contact them directly to arrange lessons or training:</p>
+        <ul>
+            <li>Facebook page – <a href="https://www.facebook.com/Streamline-Aquatics-Training-Pty-Ltd-876999649049305/">Streamline Aquatics & Training Pty Ltd</a></li>
+            <li>Email – <a href="mailto:streamlineaquatics@hotmail.com">streamlineaquatics@hotmail.com</a></li>
+            <li>Phone – 0412 327 144 (Rae)</li>
+            <li>0411 862 441 (Karen)</li>
+            <li>Post – PO Box 5674, Brendale DC 4500</li>
+        </ul>
     </div>
 </div>
-<p></p>
-<div class="notice">
-    <h2>CHANGES TO SANDGATE SWIMMING CLUB</h2>
-    <p>A lot has changed since last season at our Club. We have handed our Learn To Swim and Squad training over to a private provider - Streamline Aquatics. Please contact them directly to arrange lessons or training:</p>
-    <ul>
-        <li>Facebook page – <a href="https://www.facebook.com/Streamline-Aquatics-Training-Pty-Ltd-876999649049305/">Streamline Aquatics & Training Pty Ltd</a></li>
-        <li>Email – <a href="mailto:streamlineaquatics@hotmail.com">streamlineaquatics@hotmail.com</a></li>
-        <li>Phone – 0412 327 144 (Rae)</li>
-        <li>0411 862 441 (Karen)</li>
-        <li>Post – PO Box 5674, Brendale DC 4500</li>
-    </ul>
-</div>
-<p></p>
-<div class="notice">
-    <h2>Tuesday Club Night is back</h2>
-    <p>Club Nights will resume 8 October 2019.</p>
-    <p>To swim at Club Night, all swimmers must be financial members. Please login to Swim Central https://swimcentral.swimming.org.au/ to pay your membership now.</p>
-    <p>Can’t remember your login? Phone Swimming Queensland directly on 3245 3907 to get help.</p>
-    <p>New to Club Night? - your child can trial 3 weeks for free before needing to sign up.</p>
-    <p>AND YES</p>
-    <p>We Accept <a href="https://www.qld.gov.au/recreation/sports/funding/getinthegame/getstarted">Get Started Vouchers</a> for Club Night</p>
-</div>
-<p></p>
 
 ## Welcome
 
