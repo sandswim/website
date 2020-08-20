@@ -6,7 +6,7 @@ permalink: /about
 # About
 
 ## Club Motto
-> "Our aim is to encourage all members from Learn-to-Swim to seniour squad to achieve their maximum potential and personal goals whilst maintaining a social and friendly club environment."
+> "Our aim is to encourage all members from Learn-to-Swim to senior squad to achieve their maximum potential and personal goals whilst maintaining a social and friendly club environment."
 
 <div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
