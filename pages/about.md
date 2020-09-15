@@ -69,11 +69,10 @@ Following the AGM held on 5th November 2019, the committee for 2019/2020 is:
 Role | Person
 --- | ---
 President | Pippa van Wijk
-Vice-President | ?
 Secretary | Judith Wilson
-Treasurer | Kylie Raffin 
-Club Night Co-ordinator | Ria Meek
-Member | Jon Tongia,<br />Kelly Smith<br />Leif Mawson<br />Nicholas Car<br />Mary Mawson<br />Michelle Fraser<br />Simon Punter
+Treasurer | Kelly Smith
+Club Night Co-ordinator | Pippa van Wijk
+Member | Ria Meek,<br />Kylie Loof<br />Nicholas Car<br />Simon Punter
 
 Remember that all of the committee members are volunteers.
 
@@ -88,7 +87,7 @@ Our club is committed to ensuring that executive positions are manageable amidst
 Please click the links below to read more about the duties of our committee.
 
 * [President](files/Role-President.pdf)
-* [Vice President](files/Role-Vice-President.pdf)
+* [Vice President](files/Role-Vice-President.pdf) - unfilled!
 * [Secretary](files/Role-Secretary.pdf)
 * [Treasurer](files/Role-Treasurer.pdf)
 * [Race Secretary](files/Role-Race-Secretary.pdf)

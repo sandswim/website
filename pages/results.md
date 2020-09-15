@@ -7,6 +7,11 @@ permalink: /results
 ## Results
 ### Club Night Results
 
+#### 2020/2021
+*Coming, as Club Nights are held!*
+
+#### 2019/2020
+
 **Date** | **Results**
 --- | ---
 08 Oct 19 | [Results](files/results/ClubNight-2019-10-08.pdf)
@@ -31,7 +36,7 @@ permalink: /results
 31 Mar 20 | Trophy Night - Cancelled
 
 ## Reports
-* [2018-19 Season Report](files/reports/2018-19-Season-Report.pdf)
+* [2018-2019 Season Report](files/reports/2018-19-Season-Report.pdf)
 * [2017-2018 Season Report](files/reports/2017-2018-Season-Report.pdf)
 * [2016-2017 Season Report](files/reports/2016-2017-Season-Report.pdf)
 * [2015-2016 Season Report](files/reports/2015-2016-Season-Report.pdf)

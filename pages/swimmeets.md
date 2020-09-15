@@ -5,7 +5,17 @@ permalink: /meets
 ---
 # Swim Meets
 
-## Brisbane Premiership 2019/2020
+## 2020/2021
+Swimming Queensland runs events throughout the season and Club members will need separate Swimming Queensland membership to attend.
+
+To see the full Swimming Queensland calendar, please go here:
+
+* <https://qld.swimming.org.au/events>
+
+
+
+<!--
+### Brisbane Premiership 2019/2020
 
 For the 2019/2020 season, Brisbane Swimming is running two premiership competitions.
 
@@ -859,4 +869,4 @@ table.meet td {
         </tr>
     </tbody>
 </table>
- 
+ -->

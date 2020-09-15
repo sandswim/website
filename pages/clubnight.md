@@ -15,7 +15,7 @@ The evening commences at 6pm with the BBQ and swimming from 6.30pm sharp
 All events will be conducted in terms of the Club’s by-laws. The program for each week is available to members on our club-night e-newsletter, which is distributed on the Sunday or Monday before Tuesday club night.
 
 #### Club Night Nominations
-To nominate on your first night of club, email your nominations to the nominations registrar at nominations_sandswim@bigpond.com up to 6pm on the Monday beforehand. From there, your nomination will be active from week to week. If you cannot swim, simply opt out by emailing the nominations registrar. Further details are provided under Club Night Nominations.
+To nominate on your first night of club, email your nominations to the nominations registrar at <nominations_sandswim@bigpond.com> up to 6pm on the Monday beforehand. From there, your nomination will be active from week to week. If you cannot swim, simply opt out by emailing the nominations registrar. Further details are provided under Club Night Nominations.
 
 #### Club By-Law Failing to Swim
 Club members who on two club swim nights have entered their names for competitions and fail to swim without first advising the Marshall prior to the event being called, shall not be permitted to compete for a period of three club swims. The implementation of this rule shall be at the discretion of the President and Secretary.

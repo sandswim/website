@@ -6,7 +6,7 @@ permalink: /championships
 # Club Championships
 **Check v. Members Handbook p 15 & 16**
 
-Club Championships 2019/2020 will be held on Sunday 29th March 2020 - start time TBA 
+Club Championships 2020/2021 will be announced after the start of the 20/21 season.
 
 RULES AND ELIGIBILITY CONDITIONS:
 1.	Only financial members shall be eligible to swim in Club Championships
@@ -18,7 +18,7 @@ RULES AND ELIGIBILITY CONDITIONS:
 ### What you need to do next:
 
 1. Check that your child is in the correct age group [here](files/2018-19%20season%20top%20times%2026%20feb%202019.pdf).  Age is determined as age on the first night of Championships ie as of 12th March. If your child's age group is incorrect please [email me](mailto:nominations_sandswim@bigpond.com?subject=My%20child's%20age%20is%20wrong&body=Hi%20Pippa%0APlease%20correct%20my%20child's%20age%20in%20the%20entries%20list.%0AName%3A%0ADOB%3A%0A%0AThanks).
-2. If your child is eligible to swim in the Club Championships, please [nominate](mailto:nominations_sandswim@bigpond.com?subject=Nominations%20for%20Club%20Championships&body=Please%20nominate%20(name)%20for%20the%20following%20Championship%20events%3A%0AChoose%20one%20or%20more%20-%20%20Free%2FBreast%2FBack%2FFly%0A%0A(delete%20below%20if%20your%20child%20does%20not%20want%20to%20swim%20the%20IM)%0AMy%20child%20has%20swim%20the%20IM%20(insert%20distance%20-%20100m%20or%20200m%20here)%20and%20would%20like%20to%20nominate%20for%20this%20at%20Championships) them by Friday 8th March 7pm - this is the closing date for all Club Championship events across the 3 nights.  Your child will be placed in the distance they swim at Club Night.
+2. If your child is eligible to swim in the Club Championships, please [nominate](mailto:nominations_sandswim@bigpond.com?subject=Nominations%20for%20Club%20Championships&body=Please%20nominate%20(name)%20for%20the%20following%20Championship%20events%3A%0AChoose%20one%20or%20more%20-%20%20Free%2FBreast%2FBack%2FFly%0A%0A(delete%20below%20if%20your%20child%20does%20not%20want%20to%20swim%20the%20IM)%0AMy%20child%20has%20swim%20the%20IM%20(insert%20distance%20-%20100m%20or%20200m%20here)%20and%20would%20like%20to%20nominate%20for%20this%20at%20Championships) them by {*date to be announds in sesaon*} - this is the closing date for all Club Championship events across the 3 nights.  Your child will be placed in the distance they swim at Club Night.
 3. If your child wishes to swim any of the Open Events (100m free, back, breast, fly and 200m, 400m and 800m free), [nominate here](mailto:nominations_sandswim@bigpond.com?subject=Open%20event%20nominations&body=Please%20nominate%20my%20child%20for%20open%20events%3A%0AName%3A%0AOpen%20event%2Fs%3A)
 
 
