@@ -19,7 +19,11 @@ permalink: /
     <div class="notice">
         <h2>2020/21 Season starts in October!</h2>
         <p>The first Club Night for the season will be Tuesday, October 6th.</p>
-        <p>To join the club, please just attend on the October 6th at 6:30 at Sandgate State School pool or <a href="/contact">contact the Club</a>.</p>
+        <p>Come along and try for free if you're interested!</p>
+        <p style="background-color:#FFCCAA; border: solid 2px #FF6600; padding:5px; color:#FF6600;">
+            Due to COVID restrictions, all visitors need to register before attending Club Night. Please email <a href="nominations_sandswim@bigpond.com">nominations_sandswim@bigpond.com</a> or phone Nick on 0477 560 177 and we will then send you registration details.
+        </p>
+        <p>To join the club, please also just <a href="/contact">contact the Club</a>!</p>
     </div>
     <div class="notice" style="text-align:center;">
         <h2>Quick Info</h2>
