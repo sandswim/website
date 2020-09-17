@@ -6,7 +6,7 @@ vendor
 
 jekyll-commands.sh
 
-.DS_Store
-
 # images for testing
 test/
+
+.DS_Store
