@@ -91,231 +91,118 @@ If you are unsure about anything to do with club night nominations email us at t
  
 **Please note that email nominations are required each week for Open Events.**
 
-## 2019/20 Program
+## 2020/21 Program
 Note: Program subject to change depending on previously cancelled events, weather or other circumstances.  House Relay will be cancelled if events run later than 8pm.
 
-### 2019
-#### 8th October
+### 2020
+#### 6th October
 
 1. 12.5m Freestyle
 2. 25m Freestyle
 3. 12.5m Backstroke
 4. 50m Freestyle
 5. 25m Backstroke
-7. 50m Backstroke
+6. 50m Backstroke
 
-(No House Relay)
+No House Relay
 
-#### 15th October
+#### 13th October
 
 1. 12.5m Free
 2. 100m IM
-3. 12.5m Breast
-4. 25m Free
-5. 12.5m Back
-6. 50m Free
-7. 25m Breast
-8. 50m Breast
-9. 25m Back
-10. 50m Back
-
-(No House Relay)
-
-#### 22nd October
-
-1. 12.5m Free
-2. 100m Breast
-3. 12.5m Back
-4. 25m Free
-5. 12.5m Fly
-6. 50m Free
-7. 25m Back
-8. 50m Back
-9. 25m Fly
-10. 50m Fly
-
-House relay
-
-#### 29th October
-
-1. 12.5m Free
-2. 100m Back
-3. 12.5m Breast
-4. 25m Free
-5. 12.5m Fly
-6. 50m Free
-7. 25m Breast
-8. 50m Breast
-9. 25m Fly
-10. 50m Fly
-
-House relay
-
-#### 5th November
-
-1. 12.5m Free
-2. 25m Free
-3. 100m Fly
+3. 25m Free
 4. 12.5m Breast
 5. 50m Free
 6. 25m Breast
 7. 50m Breast
+8. House Relay
 
-No House Relay due to AGM
 
-#### 12th November
-
-1. 12.5m Free
-2. 25m Free
-3. 12.5m Back
-4. 100m Free
-5. 12.5m Fly
-6. 50m Free
-7. 25m Back
-8. 50m Back
-9. 25m Fly
-10. 50m Fly
-
-House relay
-
-#### 19th November
+#### 20th October
 
 1. 12.5m Free
-2. 25m Free
-3. 12.5m Breast
-4. 100m IM
-5. 12.5m Back
-6. 50m Free
-7. 25m Breast
-8. 50m Breast
-9. 25m Back
-10. 50m Back
-
-House relay
-
-#### 26th November
-
-1. 12.5m Free
-2. 25m Free
-3. 12.5m Fly
-4. 100m Breast
-5. 12.5m Back
-6. 50m Free
-7. 25m Fly
-8. 50m Fly
-9. 25m Back
-10. 50m Back
-
-House relay
-
-#### 3rd December
-
-1. 12.5m Free
-2. 25m Free
-3. 12.5m Breast
-4. 100m Back
-5. 12.5m Back
-6. 50m Free
-7. 25m Breast
-8. 50m Breast
-9. 25m Back
-10. 50m Back
-
-House relay
-
-#### 10th December
-
-Christmas Party including:
-
-Christmas House Relay
-
-### 2020
-#### 28th January
-
-1. 12.5m Free
-2. 100m Free
-3. 25m Free
-4. 12.5m Back
-5. 50m Free
-6. 12.5m Breast
-7. 25m Back
-8. 50m Back
-9. 25m Breast
-10. 50m Breast
-
-House relay
-
-#### 4th February
-
-1. 12.5m Free
-2. 100m Fly
+2. 100m Back
 3. 25m Free
 4. 12.5m Fly
 5. 50m Free
-6. 12.5m Back
-7. 25m Fly
-8. 50m Fly
-9. 25m Back
-10. 50m Back
+6. 25m Fly
+7. 50m Fly
+8. House relay
 
-House relay
-
-#### 11th February
-
-1. 12.5m Free
-2. 100m IM
-3. 25m Free
-4. 12.5m Breast
-5. 50m Free
-6. 12.5m Fly
-7. 25m Breast
-8. 50m Breast
-9. 25m Fly
-10. 50m Fly
-
-House Relay
-
-#### 18th February
+#### 27th October
 
 1. 12.5m Free
 2. 100m Breast
 3. 25m Free
 4. 12.5m Back
 5. 50m Free
-6. 12.5m Fly
-7. 25m Back
-8. 50m Back
-9. 25m Fly
-10. 50m Fly
+6. 25m Back
+7. 50m Back
+8. House relay
 
-House relay
+#### 3rd November
 
-#### 25th February
+1. 12.5m Free 
+2. 100m Fly
+3. 25m Free 
+4. 12.5m Breast
+5. 50m Free
+6. 25m Breast
+7. 50m Breast
+8. House relay
 
-1. 12.5m Free
-2. 100m Back
-3. 12.5m Breast
-4. 25m Free
-5. 12.5m Back
-6. 50m Free
-7. 25m Breast
-8. 50m Breast
-9. 25m Back
-10. 50m Back
-
-House Relay
-
-#### 3rd March
+#### 10th November
 
 1. 12.5m Free
 2. 100m Free
+3. 25m Free 
+4. 12.5m Fly
+5. 50m Free
+6. 25m Fly
+7. 50m Fly
+
+No House Relay due to AGM
+
+
+#### 17th November
+
+1. 12.5m Freestyle
+2. 100m IM
+3. 25m Freestyle
+4. 12.5m Backstroke
+5. 50m Freestyle
+6. 25m Backstroke
+7. 50m Backstroke
+8. House relay
+
+#### 24th November
+
+1. 12.5m Free
+2. 100m Back
+3. 25m Free
+4. 12.5m Breast
+5. 50m Free
+6. 25m Breast
+7. 50m Breast
+8. House relay
+
+#### 1st December
+
+1. 12.5m Free
+2. 100m Breast
 3. 25m Free
 4. 12.5m Fly
 5. 50m Free
-6. 12.5m Back
-7. 25m Fly
+6. 25m Fly
 7. 50m Fly
-9. 25m Back
-10. 50m Back
+8. House relay
 
-House Relay
+#### 8th December
+
+Christmas Party including:
+
+* Christmas House Relay
+
+
+### 2021
+*2021 Program to be announced later in the season*
