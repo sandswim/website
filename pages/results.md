@@ -8,7 +8,8 @@ permalink: /results
 ### Club Night Results
 
 #### 2020/2021
-*Coming, as Club Nights are held!*
+06 Oct 19 | [Results](files/results/ClubNight-2020-10-06.pdf) | [High Points](files/results/HighPoints-2020-10-06.pdf)  
+13 Oct 19 | [Results](files/results/ClubNight-2020-10-13.pdf) | [High Points](files/results/HighPoints-2020-10-13.pdf)  
 
 #### 2019/2020
 
