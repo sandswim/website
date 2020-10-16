@@ -17,13 +17,22 @@ permalink: /
 </style>
 <div class="notices">
     <div class="notice">
-        <h2>2020/21 Season starts in October!</h2>
-        <p>The first Club Night for the season will be Tuesday, October 6th.</p>
-        <p>Come along and try for free if you're interested!</p>
-        <p style="background-color:#FFCCAA; border: solid 2px #FF6600; padding:5px; color:#FF6600;">
-            Due to COVID restrictions, all visitors need to register before attending Club Night. Please email <a href="nominations_sandswim@bigpond.com">nominations_sandswim@bigpond.com</a> or phone Nick on 0477 560 177 and we will then send you registration details.
-        </p>
-        <p>To join the club, please also just <a href="/contact">contact the Club</a>!</p>
+        <h2>2020/21 Season</h2>
+        <div style="display:grid; grid-template-columns: 45% 45%; grid-column-gap: 50px;">
+            <div>
+                <h3 style="text-align:center;">Come and Try</h3>
+                <p>Come along and try for free if you're interested!</p>
+                <p style="background-color:#FFCCAA; border: solid 2px #FF6600; padding:5px; color:#FF6600;">
+                    Due to COVID restrictions, all visitors need to register before attending Club Night. Please email <a href="nominations_sandswim@bigpond.com">nominations_sandswim@bigpond.com</a> or phone Nick on 0477 560 177 and we will then send you registration details.
+                </p>
+            </div>
+            <div>
+                <h3 style="text-align:center;">Join</h3>
+                <p>We'd love to have you join the club. To do so, just fill out this online application form:</p>
+                <a href="https://forms.gle/pkLnS9wSp1HDmAfU6"><img src="/images/signup-form.png" alt="sing-up form image" style="width:100%" /></a>
+                <p>If you have any problems signing up, just <a href="/contact">contact the Club</a>!</p>
+            </div>
+        </div>        
     </div>
     <div class="notice" style="text-align:center;">
         <h2>Quick Info</h2>

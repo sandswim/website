@@ -5,6 +5,16 @@ permalink: /membership
 ---
 # Membership & Fees
 
+## Join the Club
+We'd love to have you join the club. To do so, just fill out this online application form:
+
+<p style="text-align:center;">
+<a href="https://forms.gle/pkLnS9wSp1HDmAfU6"><img src="/images/signup-form.png" alt="sing-up form image" style="width:50%" /></a>
+</p>
+
+If you have any problems signing up, just [contact the Club](/contact)!
+
+
 ## Club Membership
 All swimmers who use the pool facilities during the official swimming season and attend Club Night must be members of the Sandgate Storm Swimming club and be financial at all times. Club membership fees are charged per-family.
 
@@ -16,7 +26,6 @@ The yearly membership fee is set at the first General Meeting after the Club sea
 #### Members will be invoiced
 
 ### 2020/2021 Membership Fees
-
 
 --- | ---
 1 child | $80 per family
