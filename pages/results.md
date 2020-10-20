@@ -8,33 +8,38 @@ permalink: /results
 ### Club Night Results
 
 #### 2020/2021
-06 Oct 19 | [Results](files/results/ClubNight-2020-10-06.pdf) | [High Points](files/results/HighPoints-2020-10-06.pdf)  
+
+**Date** | **Results** | **Points**  
+--- | --- | ---
+20 Oct 19 | [Results](files/results/ClubNight-2020-10-20.pdf) | [High Points](files/results/HighPoints-2020-10-20.pdf)  
 13 Oct 19 | [Results](files/results/ClubNight-2020-10-13.pdf) | [High Points](files/results/HighPoints-2020-10-13.pdf)  
+06 Oct 19 | [Results](files/results/ClubNight-2020-10-06.pdf) | [High Points](files/results/HighPoints-2020-10-06.pdf)  
+
 
 #### 2019/2020
 
 **Date** | **Results**
 --- | ---
-08 Oct 19 | [Results](files/results/ClubNight-2019-10-08.pdf)
-15 Oct 19 | [Results](files/results/ClubNight-2019-10-15.pdf)
-22 Oct 19 | [Results](files/results/ClubNight-2019-10-22.pdf)
-29 Oct 19 | [Results](files/results/ClubNight-2019-10-29.pdf)
-05 Nov 19 | [Results](files/results/ClubNight-2019-11-05.pdf)
-12 Nov 19 | [Results](files/results/ClubNight-2019-11-12.pdf)
-19 Nov 19 | [Results](files/results/ClubNight-2019-11-19.pdf)
-26 Nov 19 | [Results](files/results/ClubNight-2019-11-26.pdf)
-03 Dec 19 | [Results](files/results/ClubNight-2019-12-03.pdf)
-10 Dec 19 | No racing this week 	 
-28 Jan 20 | [Results](files/results/ClubNight-2020-01-28.pdf)	 
-04 Feb 20 | [Results](files/results/ClubNight-2020-02-04.pdf)	
-11 Feb 20 | [Results](files/results/ClubNight-2020-02-11.pdf)	
-18 Feb 20 | [Results](files/results/ClubNight-2020-02-18.pdf)	 
-25 Feb 20 | [Results](files/results/ClubNight-2020-02-25.pdf)	 
-03 Mar 20 | [Results](files/results/ClubNight-2020-03-03.pdf)
-10 Mar 20 | [Results](files/results/ClubNight-2020-03-10.pdf)
-17 Mar 20 | Cancelled
+31 Mar 20 | Trophy Night - Cancelled (COVID)
 24 Mar 20 | Cancelled
-31 Mar 20 | Trophy Night - Cancelled
+17 Mar 20 | Cancelled
+10 Mar 20 | [Results](files/results/ClubNight-2020-03-10.pdf)
+03 Mar 20 | [Results](files/results/ClubNight-2020-03-03.pdf)
+25 Feb 20 | [Results](files/results/ClubNight-2020-02-25.pdf)
+18 Feb 20 | [Results](files/results/ClubNight-2020-02-18.pdf)	
+11 Feb 20 | [Results](files/results/ClubNight-2020-02-11.pdf)
+04 Feb 20 | [Results](files/results/ClubNight-2020-02-04.pdf)
+28 Jan 20 | [Results](files/results/ClubNight-2020-01-28.pdf)	
+10 Dec 19 | No racing this week 
+03 Dec 19 | [Results](files/results/ClubNight-2019-12-03.pdf)
+26 Nov 19 | [Results](files/results/ClubNight-2019-11-26.pdf)
+19 Nov 19 | [Results](files/results/ClubNight-2019-11-19.pdf)
+12 Nov 19 | [Results](files/results/ClubNight-2019-11-12.pdf)
+05 Nov 19 | [Results](files/results/ClubNight-2019-11-05.pdf)
+29 Oct 19 | [Results](files/results/ClubNight-2019-10-29.pdf)
+22 Oct 19 | [Results](files/results/ClubNight-2019-10-22.pdf)
+15 Oct 19 | [Results](files/results/ClubNight-2019-10-15.pdf)
+08 Oct 19 | [Results](files/results/ClubNight-2019-10-08.pdf)
 
 ## Reports
 * [2018-2019 Season Report](files/reports/2018-19-Season-Report.pdf)
