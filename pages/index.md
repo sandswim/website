@@ -19,27 +19,58 @@ permalink: /
     <div class="notice">
         <h2>2020/21 Season</h2>
         <div style="display:grid; grid-template-columns: 45% 45%; grid-column-gap: 50px;">
-            <div>
-                <h3 style="text-align:center;">Come and Try</h3>
+            <div style="text-align:center;">
+                <style type="text/css">
+                    .form-link {
+                        background-color: rgb(102, 156, 62);
+                        padding: .5em;
+                        -moz-border-radius: 5px;
+                        -webkit-border-radius: 5px;
+                        border-radius: 6px;
+                        color: white;
+                        font-family: Arial, sans-serif;
+                        font-size: 20px;
+                        text-decoration: none;
+                        border: none;
+                    }
+                    .form-link:hover {
+                        border: none;
+                        background: rgb(226, 233, 221);
+                        box-shadow: 0px 0px 1px #777;
+                        text-decoration: underline;
+                        color:black;
+                    }
+                </style>
+                <p><a class="form-link" href="https://www.eventbrite.com.au/e/sandgate-storm-come-and-try-club-night-tickets-126512390967">Register for Come & Try</a></p>
+                <a href="files/flyers/flyer-A6-ComeTryNight.pdf">
+                    <img src="files/flyers/flyer-A6-ComeTryNight-thumb.png" alt="Come & See flyer" style="border: solid 1px darkgrey;" />
+                </a>
+                <!--
                 <p>Come along and try for free if you're interested!</p>
                 <p style="background-color:#FFCCAA; border: solid 2px #FF6600; padding:5px; color:#FF6600;">
                     Due to COVID restrictions, all visitors need to register before attending Club Night. Please email <a href="nominations_sandswim@bigpond.com">nominations_sandswim@bigpond.com</a> or phone Nick on 0477 560 177 and we will then send you registration details.
                 </p>
+                -->
             </div>
-            <div>
-                <h3 style="text-align:center;">Join</h3>
-                <p>We'd love to have you join the club. To do so, just fill out this online application form:</p>
-                <a href="https://forms.gle/pkLnS9wSp1HDmAfU6"><img src="/images/signup-form.png" alt="sing-up form image" style="width:100%" /></a>
-                <p>If you have any problems signing up, just <a href="/contact">contact the Club</a>!</p>
+            <div style="text-align:center;">
+                <h3>Join the Club</h3>
+                <a class="form-link" href="https://forms.gle/pkLnS9wSp1HDmAfU6">Club Joining Form</a>
+                <p>We'd love to have you join the club. To do so, just fill out the online application form linked to above.</p>                
+                <p>If you have any problems signing up, please just <a href="/contact">contact the Club</a>!</p>
+                <img src="images/sign-up.png" alt="sign-up icon" />
             </div>
         </div>        
     </div>
     <div class="notice" style="text-align:center;">
         <h2>Quick Info</h2>
+        <style>
+            #join {border-bottom: solid 2px pink;}
+            #join:hover {border-bottom: solid 2px darkred;}
+        </style>
         <div style="display:grid; grid-template-columns: 120px 400px 1fr; text-align:left;">
             <div style="font-size:smaller; text-align:center;">
                 <a href="https://goo.gl/maps/8g48JJ4xs3Wi1akH8">
-                    <img src="images/gmaps-icon.png" alt="Google Maps Icon" style="width:100px;" /><br />
+                    <img id="join" src="images/gmaps-icon.png" alt="Google Maps Icon" style="width:100px;" /><br />
                 </a>
             </div>
             <div style="align-self: center;">
