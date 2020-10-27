@@ -17,6 +17,11 @@ permalink: /
 </style>
 <div class="notices">
     <div class="notice">
+        <h3>Bad Weather on Club Night</h3>
+        <p>Just a reminder that bad wealtehr can unfortunately ruin a perfectly good Club night. If you are ever in doubt, please watch our website - here - and we will also notify members via email.</p>
+        <p style="color:red;">We don't cancel for rain - real swimmers love getting wet!</p>
+    </div>
+    <div class="notice">
         <h2>2020/21 Season</h2>
         <div style="display:grid; grid-template-columns: 45% 45%; grid-column-gap: 50px;">
             <div style="text-align:center;">
