@@ -18,7 +18,7 @@ permalink: /
 <div class="notices">
     <div class="notice">
         <h3>Bad Weather on Club Night</h3>
-        <p>Just a reminder that bad wealtehr can unfortunately ruin a perfectly good Club night. If you are ever in doubt, please watch our website - here - and we will also notify members via email.</p>
+        <p>Just a reminder that bad weather can unfortunately ruin a perfectly good Club night. If you are ever in doubt, please watch our website - here - and we will also notify members via email.</p>
         <p style="color:red;">We don't cancel for rain - real swimmers love getting wet!</p>
     </div>
     <div class="notice">
