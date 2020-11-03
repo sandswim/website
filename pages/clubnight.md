@@ -70,26 +70,21 @@ Between 1.6s and 2.5s faster than best time | 6
 More than 2.5 s faster than best time | 7
 Time Trial  (first swim at the distance) | 2
 
-#### Inclement Weather
-In the event of inclement weather the program for that Club Night will be cancelled. If a club swim is abandoned the stroke in progress is to be completed, except in the case of lightning, where all swimmers must vacate the pool immediately. Swimmers nominated for abandoned strokes will be awarded 1 point. If it is not possible to complete the stroke in progress 1 point will be awarded to all nominated swimmers and times recorded cancelled. In the case of a major event (eg Presidents Cup) lost due to inclement weather that event will be rescheduled and the club program for that night abandoned. In the case of inclement weather for club coaching and learn to swim, classes will be temporarily suspended when danger from lightning is imminent. Classes will not be cancelled due to rain alone.
+#### Storms and Bad Weather
+If storms are forecast for a club night, the President will make a decicion to proceed with club night or to cancel by 5pm on the Club Night day. Please check the front page of this website at 5 or your emails for a cancellation notice.
 
 #### Invitation Swims
 Visiting swimmers shall be allowed to compete for a maximum of two Club nights. No points will be awarded for these swims. 
 
 ## Nominations
-First, check which events (strokes and distances) are scheduled for that week by viewing the season program.
+All nominations are collected by free ticketing through [EventBrite](https://www.eventbrite.com.au). You can search on that website for "Sandgate Storm" or click the link in the newsletter each week.
+
+In accordance with the Industry Covid-Safe Plan, all swimmers and parents must have a ticket to attend.  Ticketing closes at 7am on the day of racing.  With the current relaxation in restrictions, we are able to allow entry without tickets, but your child will not be timed and can only swim if there is a spare lane in the event they wish to compete.
+
+If you are unsure about anything to do with club night nominations email us at the nominations address <nominations_sandswim@bigpond.com>.
  
-**First time at swimming club**: Simply send an email containing your name, date of birth and the strokes you wish to swim.
+**First time at swimming club**: Your child will be placed in either 12.5m or 25m races depending on age.  Most swimmers start at 12.5m and quickly qualify for 25m if they are competent enough.  Qualifying times can be found [above](#qualifying-times).
  
-**Returning for the first time this season**: Email your name, the strokes and any open events you wish to swim
- 
-**Every other club night is an OPT OUT system**: You will be automatically nominated for all non-open events that you are eligible to enter. Swimmers must OPT OUT of events they do not wish to swim, or if they are unable to attend club.If a swimmer fails to opt out of their nominations for two weeks, their name will be removed from the automatic nomination system and they can re-nominate by following the steps for first club night.
- 
-If you are unsure about anything to do with club night nominations email us at the nominations address. 
- 
-#### Closing time for Club Night nominations is by 6pm on the Saturday evening before club night to <nominations_sandswim@bigpond.com>
- 
-**Please note that email nominations are required each week for Open Events.**
 
 ## 2020/21 Program
 Note: Program subject to change depending on previously cancelled events, weather or other circumstances.  House Relay will be cancelled if events run later than 8pm.
