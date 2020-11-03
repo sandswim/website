@@ -11,9 +11,11 @@ permalink: /results
 
 **Date** | **Results** | **Points**  
 --- | --- | ---
-20 Oct 19 | [Results](files/results/ClubNight-2020-10-20.pdf) | [High Points](files/results/HighPoints-2020-10-20.pdf)  
-13 Oct 19 | [Results](files/results/ClubNight-2020-10-13.pdf) | [High Points](files/results/HighPoints-2020-10-13.pdf)  
-06 Oct 19 | [Results](files/results/ClubNight-2020-10-06.pdf) | [High Points](files/results/HighPoints-2020-10-06.pdf)  
+03 Nov 20 | [Results](files/results/ClubNight-2020-11-03.pdf) | [High Points](files/results/HighPoints-2020-11-03.pdf)  
+27 Oct 20 | _cancelled_ | _storms_  
+20 Oct 20 | [Results](files/results/ClubNight-2020-10-20.pdf) | [High Points](files/results/HighPoints-2020-10-20.pdf)  
+13 Oct 20 | [Results](files/results/ClubNight-2020-10-13.pdf) | [High Points](files/results/HighPoints-2020-10-13.pdf)  
+06 Oct 20 | [Results](files/results/ClubNight-2020-10-06.pdf) | [High Points](files/results/HighPoints-2020-10-06.pdf)  
 
 
 #### 2019/2020
