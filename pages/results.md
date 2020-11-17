@@ -11,6 +11,7 @@ permalink: /results
 
 **Date** | **Results** | **Points**  
 --- | --- | ---
+10 Nov 20 | [Results](files/results/ClubNight-2020-11-10.pdf) | [High Points](files/results/HighPoints-2020-11-10.pdf)  
 03 Nov 20 | [Results](files/results/ClubNight-2020-11-03.pdf) | [High Points](files/results/HighPoints-2020-11-03.pdf)  
 27 Oct 20 | _cancelled_ | _storms_  
 20 Oct 20 | [Results](files/results/ClubNight-2020-10-20.pdf) | [High Points](files/results/HighPoints-2020-10-20.pdf)  
