@@ -11,7 +11,7 @@ permalink: /results
 
 **Date** | **Results** | **Points**  
 --- | --- | ---
-24 Oct 20 | Come & Try Night: [Results](files/results/ClubNight-2020-11-24.pdf) | [High Points](files/results/HighPoints-2020-11-24.pdf)  
+24 Oct 20 | Come & Try Night: [Results](files/results/ClubNight-2020-11-24.pdf) | &nbsp;
 17 Nov 20 | [Results](files/results/ClubNight-2020-11-17.pdf) | [High Points](files/results/HighPoints-2020-11-17.pdf)  
 10 Nov 20 | [Results](files/results/ClubNight-2020-11-10.pdf) | [High Points](files/results/HighPoints-2020-11-10.pdf)  
 03 Nov 20 | [Results](files/results/ClubNight-2020-11-03.pdf) | [High Points](files/results/HighPoints-2020-11-03.pdf)  
