@@ -16,11 +16,13 @@ permalink: /
     }
 </style>
 <div class="notices">
+    <!--
     <div class="notice">
         <h3>Bad Weather on Club Night</h3>
         <p>Just a reminder that bad weather can unfortunately ruin a perfectly good Club night. If you are ever in doubt, please watch our website - here - and we will also notify members via email.</p>
         <p style="color:red;">We don't cancel for rain - real swimmers love getting wet!</p>
     </div>
+    -->
     <div class="notice">
         <h2>2020/21 Season</h2>
         <div style="display:grid; grid-template-columns: 45% 45%; grid-column-gap: 50px;">
@@ -46,10 +48,16 @@ permalink: /
                         color:black;
                     }
                 </style>
+                <h3>First Club Night of 2021!</h3>
+                <img src="images/2021.png" alt="2021 logo" />
+                <p><strong>Tuesday, 2<sup>nd</sup> February</strong></p>
+                <h3><a href="/clubnight#202021-program">2021 Program</a></h3>
+                <!--
                 <p><a class="form-link" href="https://www.eventbrite.com.au/e/sandgate-storm-come-and-try-club-night-tickets-126512390967">Register for Come & Try</a></p>
                 <a href="files/flyers/flyer-A6-ComeTryNight.pdf">
                     <img src="files/flyers/flyer-A6-ComeTryNight-thumb.png" alt="Come & See flyer" style="border: solid 1px darkgrey;" />
                 </a>
+                -->
                 <!--
                 <p>Come along and try for free if you're interested!</p>
                 <p style="background-color:#FFCCAA; border: solid 2px #FF6600; padding:5px; color:#FF6600;">
@@ -58,10 +66,10 @@ permalink: /
                 -->
             </div>
             <div style="text-align:center;">
-                <h3>Join the Club</h3>
-                <a class="form-link" href="https://forms.gle/pkLnS9wSp1HDmAfU6">Club Joining Form</a>
+                <h3>Join the Club in 2021</h3>
+                <a class="form-link" href="https://docs.google.com/forms/d/1ZQYQW2TKceAmwL216f8TAHdH2ThXLyXVPvo-lU5vxho/edit">Club Joining Form</a>
                 <p>We'd love to have you join the club. To do so, just fill out the online application form linked to above.</p>                
-                <p>If you have any problems signing up, please just <a href="/contact">contact the Club</a>!</p>
+                <p>If you have any problems signing up, please just<br /><a href="/contact">contact the Club</a>!</p>
                 <img src="images/sign-up.png" alt="sign-up icon" />
             </div>
         </div>        

@@ -89,6 +89,100 @@ If you are unsure about anything to do with club night nominations email us at t
 ## 2020/21 Program
 Note: Program subject to change depending on previously cancelled events, weather or other circumstances.  House Relay will be cancelled if events run later than 8pm.
 
+#### 2nd February
+Members meeting  
+1. 12.5m Free 
+2. 100m Fly
+3. 25m Free 
+4. 12.5m Breast
+5. 50m Free
+6. 25m Breast
+7. 50m Breast
+
+House relay
+
+#### 9th February
+1. 12.5m Free
+2. 100m Free
+3. 25m Free 
+4. 12.5m Fly
+5. 50m Free
+6. 25m Fly
+7. 50m Fly
+
+#### 16th February
+1. 12.5m Freestyle
+2. 100m IM
+3. 25m Freestyle
+4. 12.5m Backstroke
+5. 50m Freestyle
+6. 25m Backstroke
+7. 50m Backstroke
+
+House relay
+
+#### 23rd February
+1. 12.5m Free
+2. 100m Back
+3. 25m Free
+4. 12.5m Breast
+5. 50m Free
+6. 25m Breast
+7. 50m Breast
+
+House relay
+
+
+#### 2nd March
+1. 12.5m Free
+2. 100m Breast
+3. 25m Free
+4. 12.5m Fly
+5. 50m Free
+6. 25m Fly
+7. 50m Fly
+
+House relay
+
+#### 9th March
+1. 12.5m Freestyle
+2. 100m Fly
+3. 25m Freestyle
+4. 12.5m Backstroke
+5. 50m Freestyle
+6. 25m Backstroke
+7. 50m Backstroke
+
+House relay
+
+#### 16th March
+1. 12.5m Free
+2. 100m Free
+3. 25m Free
+4. 12.5m Breast
+5. 50m Free
+6. 25m Breast
+7. 50m Breast
+
+House relay
+
+#### 23rd March
+1. 12.5m Free
+2. 100m IM
+3. 25m Free
+4. 12.5m Fly
+5. 50m Free
+6. 25m Fly
+7. 50m Fly
+
+House relay
+
+#### 30th March
+End of Season Fun Night
+
+
+
+<!--
 ### 2020
 #### 6th October
 
@@ -201,3 +295,4 @@ Christmas Party including:
 
 ### 2021
 *2021 Program to be announced later in the season*
+-->
