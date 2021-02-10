@@ -16,6 +16,10 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 #### Serve locally
 `bundle exec jekyll serve`
 
+_to fx dependencies:_
+`bundle update && bundle install`
+
+
 
 ## License
 The content of this website is not licensed for reuse. If you really want to reuse a portion of this content, please contact the Sandgate Swim Club!
