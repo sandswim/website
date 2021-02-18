@@ -54,6 +54,45 @@ Once a swimmer qualifies in a stroke they automatically qualify for the next lon
 
 Note that the swimmer, as well as satisfying these criteria, should be be comfortable swimming these distances. Open events are not recommended for swimmers still in Learn to Swim.
 
+#### Disqualifications
+Rule tolerances only apply where there is no major disadvantage imposed on another swimmer.  Remembering any swimmers competing in BSA/QSA competitions will be subjected to the full rules with only some rule tolerances for the under 10 year olds.  Rule tolerance also applies to swimmers in 12.5m races.
+ 
+Therefore, all swimmers are encouraged to practise the various strokes and concentrate on coordinating, as best as they can, with the basic rules of each stroke.  Your coach is the best person to assist you with this task.  Parents/Carers are asked to discuss this with their swimmers.  This will avoid disappointment and misunderstanding of outcomes.
+ 
+**Starts:**
+* Freestyle, Backstroke and Butterfly starts  - can be completely under water for maximum of 12.5m and can include fly kick when underwater.  Once the swimmer has broken above water, then they must do the kick of the stroke in which they are competing.
+* Breaststroke starts - one pull down and one kick and then swimmer must break above the water.
+* Breaking: (ie moving around on the blocks before a race starts) will incur a warning. The final rule for breaking on the day of Championships will to be decided and announced in the last week of Club Night.
+
+**Turns:**
+* Backstroke turn must be a touch of the wall with some part of the body.  No kicks or arm strokes are allowed if the swimmer has done a turn that puts them on their stomach after the turn.
+* Swimmers must not touch the bottom of the pool with their feet during a turn at the shallow end.
+* Individual Medley turns are different to single stroke events.  Please check with your coach if you are unsure of these.
+ 
+**Strokes:**
+* Butterfly – arms must move together.  Swimmers 8 years & under will be given a warning.  Swimmers 9 years & over will be disqualified (DQ).
+* Butterfly – feet must be together ie no freestyle kick
+* Butterfly - arms must come forward over the water
+* Breaststroke - hands must move in front of hips
+* All other strokes must be done in the correct way eg no freestyle kick in any stroke other than freestyle.
+
+ 
+**Finishes:**
+* 2 hand touch for Breaststroke and Butterfly
+* 1 hand touch for Backstroke and Freestyle
+* Hand/s must touch above the bar at the shallow end of the pool.
+* Swimmer must not touch the bottom of the pool with their feet until their hands have touched the wall
+ 
+**Other:**
+* Swimming Cap is compulsory for all swimmers
+* Swimmers must always exit the pool via the ladder
+* Referee decision will be final
+* The Referee and Club Night Co-ordinator may consider changes to rules at their discretion to maximise the enjoyment of swimmers at Club Night and Club Championships.  No rules will be altered during a meet or to benefit a minority.
+* Rule tolerance will be applied to all 12.5m events.  Warnings for 12.5m events will be at the discretion of the referee, but no disqualifications will be applied to these events.
+
+_If in doubt about any rules or disqualifications, please talk to your coach._
+
+
 #### Awards and Trophies
 The Club encourages the swimmer to improve his/her time to maximise the points gained in each event. Accordingly, the greater the improvement, the greater the points scored. In this way swimmers are encouraged to develop their own swimming ability and do not have to win *races* on Club Night to gain points and receive awards on presentation night. The system eancourages and rewards consistent improvement and regular participation. Children swim with others of comparable ability based on their best time for that particular stroke regardless of age or sex of the child.
 
