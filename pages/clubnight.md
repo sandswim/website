@@ -205,7 +205,7 @@ House relay
 
 House relay
 
-#### 23rd March
+#### 23rd March - Handicap race night
 1. 12.5m Free
 2. 100m IM
 3. 25m Free
@@ -214,7 +214,15 @@ House relay
 6. 25m Fly
 7. 50m Fly
 
-House relay
+
+#### 28th March - Club Championships
+Sunday afternoon championshi races
+1. 12.5m Free
+1. 25m Free
+1. 50m Free
+1. 12.5m Back
+1. 25m Back
+1. 50m Back
 
 #### 30th March
 End of Season Fun Night
