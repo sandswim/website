@@ -7,6 +7,12 @@ permalink: /results
 ## Results
 ### Club Night Results
 
+#### 2021/2022
+
+**Date** | **Results** | **Points**  
+--- | --- | ---
+19 Oct 21 | [Results](files/results/ClubNight-2021-10-19.pdf) | &nbsp;
+
 #### 2020/2021
 
 **Date** | **Results** | **Points**  
