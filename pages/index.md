@@ -24,7 +24,7 @@ permalink: /
     </div>
     -->
     <div class="notice">
-        <h2>2020/21 Season</h2>
+        <h2>2021/22 Season</h2>
         <div style="display:grid; grid-template-columns: 45% 45%; grid-column-gap: 50px;">
             <div style="text-align:center;">
                 <style type="text/css">
@@ -48,10 +48,10 @@ permalink: /
                         color:black;
                     }
                 </style>
-                <h3>First Club Night of 2021!</h3>
-                <img src="images/2021.png" alt="2021 logo" />
+                <h3>First Results for 2021/22!</h3>
+                <img src="images/results.jpg" alt="results icon" />
                 <p><strong>Tuesday, 2<sup>nd</sup> February</strong></p>
-                <h3><a href="/clubnight#202021-program">2021 Program</a></h3>
+                <h3><a href="/files/results/ClubNight-2021-10-19.pdf">Click here for our first results for the 2021/22 season</a></h3>
                 <!--
                 <p><a class="form-link" href="https://www.eventbrite.com.au/e/sandgate-storm-come-and-try-club-night-tickets-126512390967">Register for Come & Try</a></p>
                 <a href="files/flyers/flyer-A6-ComeTryNight.pdf">
@@ -66,8 +66,8 @@ permalink: /
                 -->
             </div>
             <div style="text-align:center;">
-                <h3>Join the Club in 2021</h3>
-                <a class="form-link" href="https://docs.google.com/forms/d/1ZQYQW2TKceAmwL216f8TAHdH2ThXLyXVPvo-lU5vxho/edit">Club Joining Form</a>
+                <h3>Join the Club in 2021/22</h3>
+                <a class="form-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfUMFBtwRwJSP9ggV_wOmLMZD60Qm7Qhl79pBEqA7idKy76sA/viewform?usp=sf_link">Club Joining Form</a>                                           
                 <p>We'd love to have you join the club. To do so, just fill out the online application form linked to above.</p>                
                 <p>If you have any problems signing up, please just<br /><a href="/contact">contact the Club</a>!</p>
                 <img src="images/sign-up.png" alt="sign-up icon" />
@@ -114,6 +114,7 @@ permalink: /
             </a>
         </div>
     </div>
+    <!--
     <div class="notice">
         <h2>2019/20 CHANGES TO SANDGATE SWIMMING CLUB</h2>
         <p>The Club handed Learn To Swim and Squad training over to a private provider - Streamline Aquatics in 2019/20. Please contact them directly to arrange lessons or training:</p>
@@ -125,6 +126,7 @@ permalink: /
             <li>Post – PO Box 5674, Brendale DC 4500</li>
         </ul>
     </div>
+    -->
 </div>
 
 ## Welcome

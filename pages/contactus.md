@@ -12,7 +12,7 @@ permalink: /contact
 * Club Night Nominations                <nominations_sandswim@bigpond.com>
 
 #### Phone:
-Nick (committee member): 0477 560 177
+Pippa (president): 0414 736 722
 
 #### In person:
 Tuesday nights, 6:30pm+ at the Sandgate State School pool (map below), school terms 1 & 4.
