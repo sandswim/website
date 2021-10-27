@@ -16,6 +16,23 @@ permalink: /
     }
 </style>
 <div class="notices">
+    <div class="notice" style="text-align:center;">    
+        <img src="images/lane-rope-small.png" style="width:100%;" />
+        <div style="display:grid;">
+            <div style="grid-column:1; margin-top:40px;"><img src="images/swim-icon.png" /></div>
+            <div style="grid-column:2;">
+                <h3>Come and Try Night!</h3>
+                <p>23rd November</p>
+                <p>Come along to see if you, or your kids, like Club Night. We will run race-like conditions for anyone wanting to have a go</p>
+                <p>Please register for the night here:</p>
+                <ul>
+                    <li><a href="https://www.eventbrite.com.au/e/sandgate-storm-come-and-try-club-night-23rd-november-2021-tickets-199498765177">Come and Try EventBright Registration</a></li>
+                </ul>
+            </div>
+            <div style="grid-column:3; margin-top:40px;"><img src="images/swim-icon.png" /></div>
+        </div>                
+        <img src="images/lane-rope-small.png" style="width:100%;" />        
+    </div>
     <!--
     <div class="notice">
         <h3>Bad Weather on Club Night</h3>
