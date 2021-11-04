@@ -13,6 +13,8 @@ permalink: /results
 --- | --- | ---
 26 Mar 21 | [Results](files/results/ClubNight-2021-10-26.pdf) | [High Points](files/results/HighPoints-2021-10-26.pdf)
 19 Oct 21 | [Results](files/results/ClubNight-2021-10-19.pdf) | [High Points](files/results/HighPoints-2021-10-19.pdf)
+26 Oct 21 | [Results](files/results/ClubNight-2021-10-26.pdf) | [High Points](files/results/HighPoints-2021-10-26.pdf)
+02 Nov 21 | [Results](files/results/ClubNight-2021-11-02.pdf) | [High Points](files/results/HighPoints-2021-11-02.pdf)
 
 #### 2020/2021
 
