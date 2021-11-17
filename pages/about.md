@@ -22,7 +22,7 @@ Also:
 ### Policies and Rules
 
 #### Policies
-As the Club is affiliated with Swimmign Queensland, and through them Swimmign Australia, all SQ & SA policies apply.
+As the Club is affiliated with Swimmngn Queensland, and through them Swimming Australia, all SQ & SA policies apply.
 
 * SCSC - Communication Policy
 * SA - Child Welfare Policy & Procedure
@@ -49,7 +49,7 @@ All other policies can be found on the [Swimming Queensland](https://qld.swimmin
 14. The consumption of alcohol is not permitted on school premises at any time. Any voliation of this will result in the offender being removed permanently from the club
 
 ### Code of Conduct
-**TO DO - Members handbook p 14 &  15**
+See the Members handbook p 14 &  15
 
 <div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
@@ -63,52 +63,7 @@ Members who have any issues in regard to the operations of the Club are to put t
 
 <div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
-## 2019/20 Committee Members
-Following the AGM held on 5th November 2019, the committee for 2019/2020 is:
-
-Role | Person
---- | ---
-President | Pippa van Wijk
-Secretary | Judith Wilson
-Treasurer | Kelly Smith
-Club Night Co-ordinator | Pippa van Wijk
-Member | Ria Meek,<br />Kylie Loof<br />Nicholas Car<br />Simon Punter
-
-Remember that all of the committee members are volunteers.
-
 To contact us please email <sandswim@bigpond.net.au>
-
-### Committee Roles
-
-At each AGM all committee positions are declared vacant and a new group of volunteers are elected for the coming year. Generally, the new committee will consist of a mix of returning volunteers, and others who are new to their roles. Our club is strengthened by the energy and fresh ideas of new committee members, and the experience of returning members is invaluable in guiding the management of club business.
-
-Our club is committed to ensuring that executive positions are manageable amidst the demands of working and family life. 
-
-Please click the links below to read more about the duties of our committee.
-
-* [President](files/Role-President.pdf)
-* [Vice President](files/Role-Vice-President.pdf) - unfilled!
-* [Secretary](files/Role-Secretary.pdf)
-* [Treasurer](files/Role-Treasurer.pdf)
-* [Race Secretary](files/Role-Race-Secretary.pdf)
-
-### Past Committees
-#### 2018/19 Committee Members
-Following the AGM held on 7th November 2018, the committee for 2018/2019 was:
-
-Role | Person
---- | ---
-President | Lorraine Hockey
-Vice-President | Vacant
-Secretary | Pippa van Wijk
-Treasurer | Simon Commons
-Club Night Co-ordinator | Pippa van Wijk
-Member | Marco Agostini
-Member | Doug Kolishkin
-Member | Jim Murdoch
-Member | Romolo Roles
-
-<div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Club Coach and Training Partner
 The Club will be working in conjunction with [Streamline Aquatics](https://www.96five.com/business-directory/streamline-aquatics-training-pty-ltd/) who are our learn-to-swim and training provider.
