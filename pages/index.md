@@ -16,7 +16,7 @@ permalink: /
     }
 </style>
 <div class="notices">
-    <div class="notice" style="text-align:center;">    
+    <!-- <div class="notice" style="text-align:center;">    
         <img src="images/lane-rope-small.png" style="width:100%;" />
         <div style="display:grid;">
             <div style="grid-column:1; margin-top:40px;"><img src="images/swim-icon.png" /></div>
@@ -32,7 +32,7 @@ permalink: /
             <div style="grid-column:3; margin-top:40px;"><img src="images/swim-icon.png" /></div>
         </div>                
         <img src="images/lane-rope-small.png" style="width:100%;" />        
-    </div>
+    </div> -->
     <!--
     <div class="notice">
         <h3>Bad Weather on Club Night</h3>
@@ -41,7 +41,7 @@ permalink: /
     </div>
     -->
     <div class="notice">
-        <h2>2021/22 Season</h2>
+        <h2>2022/23 Season</h2>
         <div style="display:grid; grid-template-columns: 45% 45%; grid-column-gap: 50px;">
             <div style="text-align:center;">
                 <style type="text/css">
@@ -65,10 +65,10 @@ permalink: /
                         color:black;
                     }
                 </style>
-                <h3>First Results for 2021/22!</h3>
+                <h3>First Results for 2022/23!</h3>
                 <img src="images/results.jpg" alt="results icon" />
                 <p><strong>Tuesday, 2<sup>nd</sup> February</strong></p>
-                <h3><a href="/files/results/ClubNight-2021-10-19.pdf">Click here for our first results for the 2021/22 season</a></h3>
+                <h3><a href="/files/results/ClubNight-2021-10-19.pdf">Click here for our first results for the 2022/23 season</a></h3>
                 <!--
                 <p><a class="form-link" href="https://www.eventbrite.com.au/e/sandgate-storm-come-and-try-club-night-tickets-126512390967">Register for Come & Try</a></p>
                 <a href="files/flyers/flyer-A6-ComeTryNight.pdf">
@@ -83,8 +83,8 @@ permalink: /
                 -->
             </div>
             <div style="text-align:center;">
-                <h3>Join the Club in 2021/22</h3>
-                <a class="form-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfUMFBtwRwJSP9ggV_wOmLMZD60Qm7Qhl79pBEqA7idKy76sA/viewform?usp=sf_link">Club Joining Form</a>                                           
+                <h3>Join the Club in 2022/23</h3>
+                <a class="form-link" href="https://docs.google.com/forms/d/e/1FAIpQLSeYImucdNJ9TelKeZRMIEYxHIwiYLx9Og2hcfT2keK-AFP6EA/viewform?usp=pp_url">Club Joining Form</a>                                           
                 <p>We'd love to have you join the club. To do so, just fill out the online application form linked to above.</p>                
                 <p>If you have any problems signing up, please just<br /><a href="/contact">contact the Club</a>!</p>
                 <img src="images/sign-up.png" alt="sign-up icon" />

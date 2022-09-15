@@ -5,7 +5,7 @@ permalink: /championships
 ---
 # Club Championships
 
-Club Championships 2021/2022 will be announced after the start of the 21/22 season.
+Club Championships 2/2023 will be announced after the start of the 22/23 season.
 
 RULES AND ELIGIBILITY CONDITIONS:
 1.	Only financial members shall be eligible to swim in Club Championships

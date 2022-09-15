@@ -5,7 +5,7 @@ permalink: /meets
 ---
 # Swim Meets
 
-## 2020/2021
+## 2022/2023
 Swimming Queensland runs events throughout the season and Club members will need separate Swimming Queensland membership to attend.
 
 To see the full Swimming Queensland calendar, please go here:
