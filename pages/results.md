@@ -11,6 +11,7 @@ permalink: /results
 
 **Date** | **Results** | **Points**  
 --- | --- | ---
+01 Nov 22 | [Results](files/results/ClubNight-2022-11-01.pdf) | [High Points](files/results/HighPoints-2022-11-01.pdf)
 25 Oct 22 | [Results](files/results/ClubNight-2022-10-25.pdf) | [High Points](files/results/HighPoints-2022-10-25.pdf)
 18 Oct 22 | [Results](files/results/ClubNight-2022-10-18.pdf) | [High Points](files/results/HighPoints-2022-10-18.pdf)
 11 Oct 22 | [Results](files/results/ClubNight-2022-10-11.pdf) | [High Points](files/results/HighPoints-2022-10-11.pdf)
