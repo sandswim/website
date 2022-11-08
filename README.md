@@ -11,13 +11,16 @@ This is a [Jekyll](https://jekyllrb.com/) *static site generator* website which 
 
 ### Jekyll Commands
 #### Launch new site
-`jekyll new . --force`
+
+jekyll new . --force
 
 #### Serve locally
-`bundle exec jekyll serve`
+
+bundle exec jekyll serve
 
 _to fx dependencies:_
-`bundle update && bundle install`
+
+bundle update && bundle install
 
 
 
