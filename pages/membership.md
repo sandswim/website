@@ -19,9 +19,9 @@ Prospective members may attend Club Night for free before joining.
 ### 2022/2023 Membership Fees
 
 --- | ---
-1 child | $50 per term
-2 children | $75 per term
-3 children + | $90 per term
+1 child | $40
+2 children | $47.50
+3 children + | $50
 
 
 ## Learn To Swim and Squad training
