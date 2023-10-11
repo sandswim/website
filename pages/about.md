@@ -3,6 +3,8 @@ layout: page
 title: "About"
 permalink: /about
 ---
+<img src="images/LTS-Banner.png" style="width:100%;" alt="club new-style logo" />
+
 # About
 
 ## Club Motto
@@ -131,6 +133,10 @@ The key responsibilities are to support and promote the club by:
 <div style="text-align:center; padding:30px;"><img src="images/lane-rope-small.png" alt="Lane rope logo" style="width: 800px" /></div>
 
 ## Club History
+
+![](images/sssc-logo.trans.png)  
+_The original Club logo_
+
 Sandgate Swimming Club Inc. was founded in 1924. Starting life as the *Sandgate Amateure Swimming Club*, members competed in the Shorncliffe pier baths. In those early days, swimmers had to compete with rough weather and jellyfish! The club stayed there until around 1927 when they moved to the new pool built on Flinders Parade. In about 1969, that pool was demolished to make way for a redevelopment. Until that was finished the club made a temporary home at Banyo High School, moving back to the new Sandgate Olympic Pool for the 1973-74 season. The club was incorporated on the 15th December 1998. At the end of the 1993-94 season, a change in the lessee of the Olympic Pool and a growing commercialisation of the ppol into a recreational aquatic centre, saw the club reviewing its options. This meant from the 1995-96 season, a new home was found for the club at the Sandgate State School War Memorial Swimming Pool. Apart from a few competition meets held at the Sandgate High School pool, we've been here ever since. 
 - Extract from "Sandgate Swimmin Club - a Brief History" by Reg Morrison, President 1982 - 1986, included in the monthly Club Newsletter, Issue 4, December 2012.
 
